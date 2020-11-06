@@ -2,21 +2,22 @@
 
 <!--
 **blademainer/blademainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on tx
+- 🌱 I’m currently learning rchitecture
+- 👯 I’m looking to collaborate on [pjoc-team](https://github.com/pjoc-team)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://xiongyingqi.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
-#### Skill
+
+#### Skills
 
 [![](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=ffffff&logoWidth=40)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-go-blue?style=flat-square&logo=go&logoColor=ffffff&logoWidth=40)](https://golang.org/)
