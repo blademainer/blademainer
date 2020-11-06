@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### Skill
+
+[![](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=ffffff&logoWidth=40)](https://kubernetes.io/)
+[![](https://img.shields.io/badge/-go-blue?style=flat-square&logo=go&logoColor=ffffff&logoWidth=40)](https://golang.org/)
+[![](https://img.shields.io/badge/-java-blue?style=flat-square&logo=java&logoColor=ffffff&logoWidth=40)](https://java.com/)
